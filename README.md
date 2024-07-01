@@ -34,7 +34,7 @@ Este aplicativo móvel foi desenvolvido para mostrar os pontos de acesso Wi-Fi d
     Isso abrirá o Expo Developer Tools. Escaneie o QR Code com o aplicativo Expo Go no seu dispositivo móvel ou utilize um emulador.
 
 ## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues.
+Contribuições são bem-vindas!! Sinta-se à vontade para enviar pull requests ou abrir issues.
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
